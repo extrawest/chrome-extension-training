@@ -1,6 +1,6 @@
 # Chrome extension training: Currency Converter
 
-### Milestones
+### Milestones:
 - [Basics](./milestones/basics.md)
 - [Webpack configuration](./milestones/webpack.md)
 - [Options page](./milestones/options.md)
