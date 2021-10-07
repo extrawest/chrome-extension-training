@@ -1,4 +1,4 @@
-###Options page
+##Options page
 Options page created with Vue includes (mock options_1):
 - title
 - checkbox for toggling extension state
