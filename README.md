@@ -1,5 +1,13 @@
 # Chrome extension training: Currency Converter
 
+### Milestones
+- [Basics](./milestones/basics.md)
+- [Webpack configuration](./milestones/webpack.md)
+- [Options page](./milestones/options.md)
+- [Content and background scripts](./milestones/scripts.md)
+- [Browser actions](./milestones/actions.md)
+
+
 ### General use case:
 - Once extension get installed *Options page* is opened programmatically.  
   The page includes title, short description, dropdown select for the base currency and multiple select for the target currencies.
@@ -27,10 +35,3 @@ input3 = '...Today, USD notes are made from cotton fiber paper...' // null
 >Every next request will be executed much faster.
 
 >Mocks and images will be mentioned further can be found in **./assets** folder.
-
-### Milestones
-- [Basics](./milestones/basics.md)
-- [Webpack configuration](./milestones/webpack.md)
-- [Options page](./milestones/options.md)
-- [Content and background scripts](./milestones/scripts.md)
-- [Browser actions](./milestones/actions.md)
