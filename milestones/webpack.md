@@ -1,4 +1,5 @@
-##Webpack configuration
+Webpack configuration
+#
 Set up project architecture and webpack config for extension development and building.  
 Provide a possibility to use Vue.js with ES6+ features, import/export.
 
@@ -16,7 +17,7 @@ Project structure example:
 - package.json
 - webpack.js
 
-##Resources
+Resources
 - [How to Build a Chrome Extension with Vue](https://www.sitepoint.com/build-vue-chrome-extension/)
 - [Building a web extension with Vue at speed of light](https://www.streaver.com/blog/posts/create-web-extension-vue.html)
 #

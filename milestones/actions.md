@@ -1,4 +1,5 @@
-##Content and background scripts
+Content and background scripts
+#
 Implement browser actions:
 - active toolbar icon (mock actions_1)
 - toolbar icon for disabled extension (mock actions_3)

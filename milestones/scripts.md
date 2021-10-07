@@ -1,4 +1,5 @@
-##Content and background scripts
+Content and background scripts
+#
 Implement and inject content script which is mentioned in description.  
 If extension is enabled, once user has selected some text with numeric value, append the button near the selected area (mock content_1).  
 While fetching/converting the results button should be replaced with some loader (mock content_2).  
